@@ -23,7 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="99dp"
             android:layout_gravity="bottom"
-            android:background="@color/colorPrimaryDark"
+            android:background="@color/colorAccent"
             android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
             app:menu="@menu/navigation" />
 

@@ -3,19 +3,17 @@
       xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/navigation_tut"
-        android:icon="@drawable/tut"
-        android:title="Question" />
-
+        android:id="@+id/navigation_notes"
+        android:icon="@drawable/notes"
+        android:title="Notes"/>
     <item
         android:id="@+id/navigation_prac"
         android:icon="@drawable/prac"
-        android:title="Practicals" />
-
+        android:title="Practicals"/>
     <item
-        android:id="@+id/navigation_notes"
-        android:icon="@drawable/notes"
-        android:title="Notes" />
+        android:id="@+id/navigation_tut"
+        android:icon="@drawable/tut"
+        android:title="Question" />
 
 
 </menu>

@@ -60,12 +60,12 @@ public class Sem1 extends Activity {
         Fragment newFragment = null;
 
         if (position == 0) {
-            newFragment = new Q_Frag();
+            newFragment = new N_Frag();
 
         } else if (position % 2 != 0) {
             newFragment = new P_Frag();
         } else {
-            newFragment = new N_Frag();
+            newFragment = new Q_Frag();
         }
 
         getFragmentManager().beginTransaction().replace(R.id.content,newFragment).commit();

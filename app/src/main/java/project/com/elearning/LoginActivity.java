@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class LoginActivity extends AppCompatActivity {
 
         String mail = null;
         TextView phoneHead;
@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                         @Override
                         public void onClick(View view) {
 
-                            Intent intent = new Intent(MainActivity.this,PhoneVerify.class);
+                            Intent intent = new Intent(LoginActivity.this,PhoneVerify.class);
                             String phoneNumber = String.valueOf(phone.getText());
                             Bundle bundle = new Bundle();
                             bundle.putString("number", phoneNumber);

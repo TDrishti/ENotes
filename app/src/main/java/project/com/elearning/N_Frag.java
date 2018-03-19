@@ -36,9 +36,6 @@ public class N_Frag extends Fragment implements View.OnClickListener {
         CardView cs = (CardView)v.findViewById(R.id.nt4);
         cs.setOnClickListener(this);
 
-        //CardView data = (CardView)v.findViewById(R.id.nt5);
-        //data.setOnClickListener(this);
-
         return v;
     }
 
@@ -46,34 +43,24 @@ public class N_Frag extends Fragment implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()){
             case R.id.nt1:
-                Intent i = new Intent(getActivity(),Content.class);
-                i.putExtra("message", "https://drive.google.com/open?id=0B3kKT0tVc-RPSHhjYWJEZEl1X28");
+                Intent i = new Intent(getActivity(),CO.class);
                 startActivity(i);
                 break;
-
-            case R.id.nt2:
-                Intent j = new Intent(getActivity(),Content.class);
-                j.putExtra("message", "https://drive.google.com/open?id=0B3kKT0tVc-RPYjlDZnVHRXRQcUU");
-                startActivity(j);
-                break;
-
-            case R.id.nt3:
-                Intent k = new Intent(getActivity(),Content.class);
-                k.putExtra("message", "https://drive.google.com/open?id=0B3kKT0tVc-RPaVlnbTJERnN6b2M");
-                startActivity(k);
-                break;
-
-            case R.id.nt4:
-                Intent l = new Intent(getActivity(),Content.class);
-                l.putExtra("message", "https://drive.google.com/open?id=0B3kKT0tVc-RPZWk2SjZEcFVYRTQ");
-                startActivity(l);
-                break;
-
-            //case R.id.nt5:
-              //  Intent m = new Intent(getActivity(),Content.class);
-                //m.putExtra("message", "https://drive.google.com/open?id=0B3kKT0tVc-RPSDNWNjdieHJuRFE");
-                //startActivity(m);
-                //break;
+//
+//            case R.id.nt2:
+//                Intent j = new Intent(getActivity(),Content.class);
+//                startActivity(j);
+//                break;
+//
+//            case R.id.nt3:
+//                Intent k = new Intent(getActivity(),Content.class);
+//                startActivity(k);
+//                break;
+//
+//            case R.id.nt4:
+//                Intent l = new Intent(getActivity(),Content.class);
+//                startActivity(l);
+//                break;
         }
     }
 }

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/onebt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView5"
+        android:layout_marginStart="63dp"
+        android:layout_marginTop="121dp"
+        android:text="1"/>
+
+    <Button
+        android:id="@+id/twobt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/onebt"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="61dp"
+        android:text="2"/>
+
+    <Button
+        android:id="@+id/threebt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/onebt"
+        android:layout_below="@+id/onebt"
+        android:layout_marginTop="106dp"
+        android:text="3"/>
+
+    <Button
+        android:id="@+id/fourbt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/twobt"
+        android:layout_alignTop="@+id/threebt"
+        android:text="4"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:text="SELECT UNIT"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+</RelativeLayout>

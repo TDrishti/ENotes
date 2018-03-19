@@ -1,7 +1,6 @@
 package project.com.elearning;
 
 import android.app.Fragment;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.view.LayoutInflater;
@@ -48,29 +47,29 @@ public class Q_Frag extends Fragment implements View.OnClickListener {
 
         switch (v.getId()){
 
-            case R.id.sub1:
-                Intent z = new Intent(getActivity(),Content.class);
-                z.putExtra("message","4834614");
-                startActivity(z);
-                break;
-
-            case R.id.sub2:
-                Intent y = new Intent(getActivity(),Content.class);
-                y.putExtra("message","4867958");
-                startActivity(y);
-                break;
-
-            case R.id.sub3:
-                Intent x = new Intent(getActivity(),Content.class);
-                x.putExtra("message","https://drive.google.com/open?id=0B3kKT0tVc-RPZTFrQzREa1E5UHM");
-                startActivity(x);
-                break;
-
-            case R.id.sub4:
-                Intent w = new Intent(getActivity(),Content.class);
-                w.putExtra("message","https://drive.google.com/open?id=0B3kKT0tVc-RPUTEyWFJmLUhGczQ");
-                startActivity(w);
-                break;
+//            case R.id.sub1:
+//                Intent z = new Intent(getActivity(),Content.class);
+//                z.putExtra("message","4834614");
+//                startActivity(z);
+//                break;
+//
+//            case R.id.sub2:
+//                Intent y = new Intent(getActivity(),Content.class);
+//                y.putExtra("message","4867958");
+//                startActivity(y);
+//                break;
+//
+//            case R.id.sub3:
+//                Intent x = new Intent(getActivity(),Content.class);
+//                x.putExtra("message","https://drive.google.com/open?id=0B3kKT0tVc-RPZTFrQzREa1E5UHM");
+//                startActivity(x);
+//                break;
+//
+//            case R.id.sub4:
+//                Intent w = new Intent(getActivity(),Content.class);
+//                w.putExtra("message","https://drive.google.com/open?id=0B3kKT0tVc-RPUTEyWFJmLUhGczQ");
+//                startActivity(w);
+//                break;
 
             //case R.id.sub5:
               //  Intent u = new Intent(getActivity(),Content.class);

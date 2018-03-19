@@ -1,0 +1,57 @@
+{
+  "Semester 1" : {
+    "COMPUTER ORGANISATION" : {
+      "UNIT 1" : "https://drive.google.com/open?id=14xNfIMRdeyrC7bxou-yPFcrrL-5SxcbL",
+      "UNIT 2" : "https://drive.google.com/open?id=1Ly2EM9U0WLmoYIFNF6T8_XEe8-9T5iEm",
+      "UNIT 3" : "https://drive.google.com/open?id=1oY_hJ-YvUwZOymzJ_xg71UGi3R4tbXUD",
+      "UNIT 4" : "https://drive.google.com/open?id=1XIJz57eBMO01GnzAz5FI-Gi33sjcGiX5"
+    },
+    "DISCRETE MATHS" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1_mW7besyJeu4djtORYqVymqYPVZ3an1K",
+      "UNIT 2" : "https://drive.google.com/open?id=1JIkHoXId144je6ONhzY03vWew2AD1Tfy"
+    },
+    "FIT" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1cUNYSE8fZDZon-gu0e6lTeWH8_I6PqH6",
+      "UNIT 2" : "https://drive.google.com/open?id=1lwSdIpnkNfE-WwA6HTdAWKNxRgo2UsPA",
+      "UNIT 3" : "https://drive.google.com/open?id=1kSGJdftmCfGER_h2NS9exHSUmhu3rYk5",
+      "UNIT 4" : "https://drive.google.com/open?id=1hiNa9WrY7RhsCXsWl5EYSkDZk1EQ7Oox"
+    },
+    "PROGRAMMING IN C" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1FYEvX-yXsGtmv6wPSgSSpv1SLLQ1OyAu",
+      "UNIT 2" : "https://drive.google.com/open?id=11FVaufQFhaE6aoA5NsnewqPKpksvrLLs",
+      "UNIT 3" : "https://drive.google.com/open?id=1CNGbUBtwJCOjfJavckaL3rBTd5fIDolO",
+      "UNIT 4" : "https://drive.google.com/open?id=11JxVI8VxF9jmTduzzW-9gQfq0L20-bG5"
+    }
+  },
+  "Semester 2" : {
+    "DATAFILES AND STRUCTURES" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1vGip0E7BEAXK_tM6PACI-npb_SD7nIpH",
+      "UNIT 2" : "https://drive.google.com/open?id=1-g3xEDdu36yVlw_LsXWO9EwV_odpbdiA",
+      "UNIT 3" : "https://drive.google.com/open?id=1gMt_1qmO2JnnUxAdb-wfjLIIGb4l9uK-",
+      "UNIT 4" : "https://drive.google.com/open?id=1H0hjES45A2L9rUP1TKJDUNQVgKgUoK-y"
+    },
+    "DBMS" : {
+      "UNIT 1" : "https://drive.google.com/open?id=15hUf6MSWYbccqKNPyhi2hxxQq4VbkRp4",
+      "UNIT 2" : "https://drive.google.com/open?id=1lOt2VphIge6axD3dN8oVhjz0agBF9fub",
+      "UNIT 3" : "https://drive.google.com/open?id=1wx_j8vs2-fcNh1BfOuvY0Q4XFqh95XAM",
+      "UNIT 4" : "https://drive.google.com/open?id=1QqOMxZTOMVlWWvY-a4JF6ugnFEKgPl_q"
+    },
+    "OBJECT ORIENTED PROGRAMMING" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1XwR4Rlvp5Sry0R84qvgvzp_5A4z4qkcL",
+      "UNIT 2" : "https://drive.google.com/open?id=1zF3dh5WNV-MmcJA7K_-1njd3de34q2E1",
+      "UNIT 3" : "https://drive.google.com/open?id=1IS1JRCXJ0I059B1Vg-ZGXjp2kGmb3ZwP",
+      "UNIT 4" : "https://drive.google.com/open?id=1AiCMuHHsvQY-Zrb5LvyBfvBIpe8_jim5"
+    },
+    "OPERATING SYSTEMS" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1A2nOjIQBD-oyspTVWQ70fmQgHK_-e9wS",
+      "UNIT 2" : "https://drive.google.com/open?id=1EB31j1q0zmKAw_2t-GZ_n5wUQJ0OzOYM",
+      "UNIT 3" : "https://drive.google.com/open?id=1ibPWqRRDph6HZtXlF0jJqJvvgIZQPCcI"
+    },
+    "SOFTWARE ENGINEERING" : {
+      "UNIT 1" : "https://drive.google.com/open?id=1zs5VTVC8QLJpT6xy6kaht7zrpBCn8DVd",
+      "UNIT 2" : "https://drive.google.com/open?id=1oARXsm4bFXBNEhGotxrTMenUuuGaSxnM",
+      "UNIT 3" : "https://drive.google.com/open?id=1Hf3SnYczSp1VGH9igEVRhJcrBIz42P_T",
+      "UNIT 4" : "https://drive.google.com/open?id=1Y-8XcYCfZ82WwEr_-is_2o1g0XHvcZFn"
+    }
+  }
+}
